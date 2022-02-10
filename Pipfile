@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 autopep8 = "==1.4.4"
-django = "==2.2.7"
+django = "==2.2.27"
 pillow = "==6.2.1"
 psycopg2 = "==2.8.4"
 psycopg2-binary = "==2.8.4"
